@@ -1,0 +1,33 @@
+html{
+    background-color:rgb(182, 182, 182);
+}
+
+.you{
+    position:absolute;
+    left:0; right:0; top:160px;
+    margin: auto;
+}
+
+.narration{
+    text-align:center;
+    color:white;
+    background-color:black;
+    border: 2px solid rgb(100, 100, 100);
+    border-radius: 10px;
+    padding:5px 20px;
+    margin: 20px 20px 50px 20px;
+}
+
+.exhibit {
+    margin-left:50px;
+}
+
+.pic{
+    border: 2px solid rgb(100, 100, 100);
+    width:250px;
+}
+.beauty{
+    border: 2px solid rgb(100, 100, 100);
+    width:200px;
+    margin-left:20px;
+}

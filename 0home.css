@@ -1,0 +1,16 @@
+img {
+    position:absolute;
+    left:0; right:0;
+    margin: auto;
+}
+div{
+    position: relative;
+    top: 250px;
+    text-align: center;
+}
+
+.sub{
+    color:#B39A9A;
+    font-weight: bold;
+    font-size: larger;
+}
